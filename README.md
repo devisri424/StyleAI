@@ -48,19 +48,19 @@ https://style-ai-copy-3e6dac8b.base44.app
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Home.png)
 
 ### Style Analysis
-![Style Analysis](screenshots/style-analysis.png)
+![Style Analysis](screenshots/Ocassion.png)
 
 ### Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/Recommendation.png)
 
 ### Saved Looks
-![Saved Looks](screenshots/saved-looks.png)
+![Saved Looks](screenshots/Saved.png)
 
 ## Project Flow
 
